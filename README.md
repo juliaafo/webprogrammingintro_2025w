@@ -11,17 +11,17 @@ This repository contains all the assignments for the Intro to Web Programming co
   </tr>
   <tr>
     <td>Assignment 1</td>
-    <td>01/31/2025</td>
+    <td>Jan 31</td>
     <td>15%</td>
   </tr>
   <tr>
     <td>Assignment 2</td>
-    <td>03/28/2025</td>
+    <td>March 28</td>
     <td>15%</td>
   </tr>
   <tr>
     <td>Project</td>
-    <td>04/04/2025</td>
+    <td>Apr 4</td>
     <td>30%</td>
   </tr>
 </table>
